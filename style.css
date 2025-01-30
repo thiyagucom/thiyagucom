@@ -102,6 +102,7 @@ a{
     text-align: center;
     margin-top: 10px;
     height: 40px;
+    cursor: pointer;
 }
 /* media queres */
 @media(max-width:780px){
