@@ -94,14 +94,14 @@ a{
 
 .button-social{
     font-family:'Reem Kufi', sans-serif;
-    font-size:24px;
+    font-size: 18px;
     color:white;
     width: 8em;
     border: none;
     border-radius: 5px;
-    margin-right: 2px;
     text-align: center;
     margin-top: 10px;
+    height: 40px;
 }
 /* media queres */
 @media(max-width:780px){
